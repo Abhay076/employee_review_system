@@ -1,0 +1,19 @@
+{
+  "name": "grouptest-2",
+  "version": "1.0.0",
+  "description": "my project on employee review system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhay076/GroupTest3.git"
+  },
+  "author": "Abhay Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhay076/GroupTest3/issues"
+  },
+  "homepage": "https://github.com/Abhay076/GroupTest3#readme"
+}
